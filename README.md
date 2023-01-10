@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/OU2XiLC.png"/>
+<img src="https://i.imgur.com/7e40z54.png"/>
 </p>
 
 <h1>Virtual Private Networks (VPNs)</h1>
@@ -53,3 +53,35 @@ On your local computer, browse to https://whatismyipaddress.com/ and take note o
 </p>
 <h3>Step 2: Sign up for ProtonVPN and test the VPN connection</h3>
 On your actual computer, sign up for the free version of Proton VPN [here](https://account.protonvpn.com/signup?plan=free&language=en).
+<p>
+<img src="https://i.imgur.com/jh2gtFO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+Back within your VM, download the Proton VPN client
+- Login to the VPN and choose a VPN server in yet another country (such as Japan)
+- Browse to https://whatismyipaddress.com/  and take note of the IP Address and where it’s located. Should have a different IP address and location.
+
+<p>
+<img src="https://i.imgur.com/cAe73Tf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/vnNyLxd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/PtYK19m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/g7WWUPj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/l44lBD8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+See whether there are any differences between Google, Disney, and/or Amazon when compared to the locations of your VPN server. The language or URL, for instance, can be different.
+
+<br>
+<br>
+
+Congratulations! You've successfully learned what a VPN is and how it functions. If you want to protect your data, VPNs are essential. Especially if you are working in a foreign country or in public.
+
+<h3>!ATTENTION!</h3>
+Because the majority of Azure services are pay-as-you-go, be sure to remove ALL resource groups and virtual machines if you want to keep your free $200 credits.
