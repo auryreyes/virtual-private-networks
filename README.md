@@ -28,7 +28,7 @@ Before we begin, if you haven’t already created an Azure Account or don’t kn
 
 <h3>Step 1: Create a Virtual Machine in Azure</h3>
 
-On your local computer, browse to [WhatsMyIPAdress](https://whatismyipaddress.com/) and take note of the IP Address and where it’s located.
+On your local computer, visit [WhatsMyIPAdress](https://whatismyipaddress.com/) and take note of the IP Address and where it’s located.
 <p>
 <img src="https://i.imgur.com/8oRLmOj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -37,7 +37,7 @@ On your local computer, browse to [WhatsMyIPAdress](https://whatismyipaddress.co
 <br>
 - Make sure the virtual machine you build is located in a different region than you are
 - Log into the VM with Remote Desktop Connection
-- Browse to [WhatsMyIPAdress](https://whatismyipaddress.com/) and take note of the IP Address and where it’s located
+- Visit [WhatsMyIPAdress](https://whatismyipaddress.com/) and take note of the IP Address and where it’s located
 <p>
 <img src="https://i.imgur.com/LoTjQsU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -64,7 +64,7 @@ On your actual computer, sign up for the free version of [ProtonVPN](https://www
 
 Back within your VM, download the Proton VPN client
 - Login to the VPN and choose a VPN server in yet another country (such as Japan)
-- Browse to [WhatsMyIPAdress](https://whatismyipaddress.com/) and take note of the IP Address and where it’s located. Should have a different IP address and location.
+- Visit [WhatsMyIPAdress](https://whatismyipaddress.com/) and take note of the IP Address and where it’s located. Should have a different IP address and location.
 
 <p>
 <img src="https://i.imgur.com/cAe73Tf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
