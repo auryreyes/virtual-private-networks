@@ -23,19 +23,21 @@ In this tutorial, we observe the use of Virtual Private Network (VPN) through Pr
 A Virtual Private Network (VPN) is a service that secures your privacy online by hiding your internet connection. A VPN "tunnels" communication between the user's device and the distant server while concealing the user's real public IP address.
 
 <h3>!ATTENTION!</h3>
-Before we begin, if you haven’t already created an Azure Account or don’t know how to create a VM please refer to my tutorial here.
+
+Before we begin, if you haven’t already created an Azure Account or don’t know how to create a VM please refer to my [tutorial](https://github.com/auryreyes/create-azure-virtual-machine).
 
 <h3>Step 1: Create a Virtual Machine in Azure</h3>
-On your local computer, browse to https://whatismyipaddress.com/ and take note of the IP Address and where it’s located.
+
+On your local computer, browse to [WhatsMyIPAdress](https://whatismyipaddress.com/) and take note of the IP Address and where it’s located.
 <p>
 <img src="https://i.imgur.com/8oRLmOj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 (Create Virtual Machine and Discover IP Address)
 <br>
-- Make sure the virtual machine you build is located in a different region than you are.
+- Make sure the virtual machine you build is located in a different region than you are
 - Log into the VM with Remote Desktop Connection
-- Browse to https://whatismyipaddress.com/ and take note of the IP Address and where it’s located
+- Browse to [WhatsMyIPAdress](https://whatismyipaddress.com/) and take note of the IP Address and where it’s located
 <p>
 <img src="https://i.imgur.com/LoTjQsU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -51,15 +53,18 @@ On your local computer, browse to https://whatismyipaddress.com/ and take note o
 <p>
 <img src="https://i.imgur.com/ULs2GE4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <h3>Step 2: Sign up for ProtonVPN and test the VPN connection</h3>
-On your actual computer, sign up for the free version of Proton VPN [here](https://account.protonvpn.com/signup?plan=free&language=en).
+
+
+On your actual computer, sign up for the free version of [ProtonVPN](https://www.protonvpn.com)
 <p>
 <img src="https://i.imgur.com/jh2gtFO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 Back within your VM, download the Proton VPN client
 - Login to the VPN and choose a VPN server in yet another country (such as Japan)
-- Browse to https://whatismyipaddress.com/  and take note of the IP Address and where it’s located. Should have a different IP address and location.
+- Browse to [WhatsMyIPAdress](https://whatismyipaddress.com/) and take note of the IP Address and where it’s located. Should have a different IP address and location.
 
 <p>
 <img src="https://i.imgur.com/cAe73Tf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
