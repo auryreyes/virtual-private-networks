@@ -20,7 +20,7 @@ In this tutorial, we observe the use of Virtual Private Network (VPN) through Pr
 - Create Virtual Machine in Azure
 - Sign up for ProtonVPN and test the VPN connection
 
-A Virtual Private Network (VPN) is a service that secures your privacy online by hiding your internet connection. A VPN "tunnels" communication between the user's device and the distant server while concealing the user's real public IP address.
+A Virtual Private Network (VPN) is a service that secures your privacy online by hiding your internet connection. A VPN "tunnels" communication between the user's device and the distant server while hiding the user's real public IP address.
 
 <h3>!ATTENTION!</h3>
 
