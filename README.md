@@ -24,7 +24,7 @@ A Virtual Private Network (VPN) is a service that secures your privacy online by
 
 <h3>!ATTENTION!</h3>
 
-Before we begin, if you haven’t already created an Azure Account or don’t know how to launch a VM in Azure please refer to my [tutorial](https://github.com/auryreyes/create-azure-virtual-machine).
+Before we begin, if you haven’t already created an Azure Account or don’t know how to launch a VM in Azure, please refer to my [tutorial](https://github.com/auryreyes/create-azure-virtual-machine).
 
 <h3>Step 1: Create a Virtual Machine in Azure</h3>
 
