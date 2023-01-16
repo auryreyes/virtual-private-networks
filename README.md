@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/7e40z54.png"/>
+<img src="https://i.imgur.com/7e40z54.png" height="30%" width="30%" alt="Banner"/>
 </p>
 
 <h1>Virtual Private Networks (VPNs)</h1>
